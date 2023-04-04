@@ -1,5 +1,5 @@
-# BU EC708 PhD Econometrics 1 (Spring 2022)
-TA session topics:
+# BU EC708 PhD Econometrics 1
+Spring 2022 TA session topics:
 1. Linear Models and Asymptotic Theory
 2. Weak IV
 3. GMM
